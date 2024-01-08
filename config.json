@@ -1,0 +1,21 @@
+{
+  "token": "MTE5MzI5MjcwMjU1NzY4Nzg3OA.GVnUpq.EOYLt8vIrFsY6w1c45mucXKU1uJrYY1Jw_Aims",
+  "dev-guilds": ["1184527871390265465"],
+  "ltc": "LTC ADDRESS",
+  "bitcoin": "BTC ADDRESS",
+  "pp": "PAYPAL",
+  "cashapp": "CASHAPP",
+  "website": "WEBSITE",
+  "owners": ["1106452533943222283"],
+  "admins": ["1063161697654804530"],
+  "port": 80,
+  "proxyless": true,
+  "sellapp": {
+    "invite_field_name": "invite",
+    "orders": ""
+  },
+  "sellix": {
+    "invite_field_name": "invite",
+    "orders": ""
+  }
+}
